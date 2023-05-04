@@ -9,3 +9,4 @@
 - https://github.com/david990917/My-Computer-Science-Learning
 - https://github.com/0voice/linux_kernel_wiki
 - https://github.com/0voice/kernel_memory_management/tree/main
+- https://blog.csdn.net/jiangwei0512
